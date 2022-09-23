@@ -1,0 +1,34 @@
+.footer {
+  padding: 20px 0 20px;
+  background: #fff;
+  max-width: 80%;
+  margin: auto;
+}
+.footerVector {
+  border: 1px solid #D8D8D8;
+}
+.footerContent{
+  display: grid;
+  align-items: center;
+  align-content: space-between;
+  margin-top: 50px;
+}
+.footerAbout {
+  width: 220px;
+}
+.footerMenu {
+  width: 100px;
+}
+.footerDescription {
+  display: grid;
+  margin: 20px 0 0 -2px;
+  align-items: center;
+
+  text {
+    margin-left: 10px;
+  }
+}
+
+.text {
+  margin-top: 10px;
+}

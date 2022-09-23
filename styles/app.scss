@@ -1,0 +1,14 @@
+.container {
+  display: grid;
+  grid-template-areas: 'AboveTheFold'
+          'Feature';
+    //width: 285px;
+    //height: 145px;
+    background-color: #FFFFFF;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
